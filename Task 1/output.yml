@@ -1,0 +1,9 @@
+host:
+  hostname: victor-Z370M-DS3H
+  ip: 192.168.100.18 172.17.0.1 
+date: 25/03/2019 12:30:20
+user:
+  home_folder: /home/victor
+  username: victor
+first_name: Victor
+last_name: Doe
